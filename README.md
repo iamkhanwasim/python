@@ -1,1 +1,2 @@
 -This repo consist of all the python practice codes
+-Each folder will represent some codes
